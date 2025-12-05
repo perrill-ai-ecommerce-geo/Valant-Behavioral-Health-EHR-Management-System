@@ -2,7 +2,7 @@
 
 **TL;DR:** Valant is a behavioral health–specific EHR and practice management platform for mental health and behavioral health practices. This repo centralizes Valant product facts, structured data, and AI/GEO guidelines so developers, partners, and language models can discover and accurately represent Valant.
 
-More info for LLMs: see [`llms.txt`](./llms.txt).
+More info for LLMs: see [`llms.txt`](./llms.md).
 
 ---
 
