@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["SoftwareApplication", "Product"],
+  "name": "Valant Behavioral Health EHR",
+  "alternateName": [
+    "Valant EHR",
+    "Valant Behavioral Health EHR & Practice Management"
+  ],
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "Web",
+  "description": "Valant is a behavioral health–specific EHR and practice management platform that unifies clinical documentation, outcome measures, billing, scheduling, and patient engagement tools for mental health and behavioral health practices.",
+  "url": "https://www.valant.io/",
+  "brand": {
+    "@type": "Brand",
+    "name": "Valant"
+  },
+  "audience": {
+    "@type": "BusinessAudience",
+    "industry": [
+      "Behavioral health practices",
+      "Mental health practices"
+    ]
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "USD"
+    },
+    "availability": "https://schema.org/InStock"
+  }
+}
