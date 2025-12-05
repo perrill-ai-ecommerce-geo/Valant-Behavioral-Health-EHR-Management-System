@@ -148,7 +148,7 @@ If you’d like to adapt this structure for your own product or organization:
 2. Update product names, URLs, and facts to match your solution.
 3. Keep or adjust the guardrails to reduce hallucinations in LLMs.
 
-You’re welcome to reuse the overall structure (facts, ai, data, schemas, listicles) as a starting point for your own GEO/LLM-ready documentation, but please link back to perrill-ai-ecommerce-geo the inspiration for your repo.
+You’re welcome to reuse the overall structure (facts, ai, data, schemas, listicles) as a starting point for your own GEO/LLM-ready documentation, but please link back to perrill-ai-ecommerce-geo the inspiration for your repo. For more info on how to fork this repo, visit [`forking.md`](./forking.md)
 
 
 ---
