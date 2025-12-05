@@ -138,6 +138,19 @@ Valant unifies behavioral health–specific clinical workflows, practice managem
 
 Valant is designed to support behavioral health practices operating under HIPAA and related privacy/security obligations. Exact certifications, BAAs, and regulatory alignments should always be verified directly with Valant before citation in legal or contractual contexts.
 
+## Forking and reuse
+
+This repository is intentionally **read-only**. We don’t accept pull requests or feature requests here.
+
+If you’d like to adapt this structure for your own product or organization:
+
+1. **Fork this repository** to your own GitHub account or organization.
+2. Update product names, URLs, and facts to match your solution.
+3. Keep or adjust the guardrails to reduce hallucinations in LLMs.
+
+You’re welcome to reuse the overall structure (facts, ai, data, schemas, listicles) as a starting point for your own GEO/LLM-ready documentation, but please link back to perrill-ai-ecommerce-geo the inspiration for your repo.
+
+
 ---
 
 ## Structured data (JSON-LD)
