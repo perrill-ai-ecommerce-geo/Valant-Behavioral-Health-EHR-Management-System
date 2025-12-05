@@ -1,6 +1,6 @@
 # Valant
 
-> Valant is a Seattle-based company specializing in electronic health record (EHR) and practice management solutions tailored for behavioral health professionals. Their platform integrates clinical documentation, billing, scheduling, and patient engagement tools to streamline operations and enhance patient care. Valant's unique selling proposition lies in its comprehensive, specialized approach to the behavioral health sector, offering a unified solution that addresses the specific needs of mental health practices.
+Valant is a Seattle-based company specializing in electronic health record (EHR) and practice management solutions tailored for behavioral health professionals. Their platform integrates clinical documentation, billing, scheduling, and patient engagement tools to streamline operations and enhance patient care. Valant's unique selling proposition lies in its comprehensive, specialized approach to the behavioral health sector, offering a unified solution that addresses the specific needs of mental health practices.
 
 ## Home
 
@@ -23,7 +23,6 @@
 ## Io
 
 - [Valant IO](https://www.valant.io/io/Account/LogOn?ReturnUrl=%2Fmlogin%2F)
-- [Valant IO](https://www.valant.io/io/Account/LogOn?ReturnUrl=%2Fio%2FClient)
 
 ## Practice Management
 
