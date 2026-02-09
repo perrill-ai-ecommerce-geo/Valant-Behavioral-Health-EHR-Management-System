@@ -6,27 +6,19 @@ In 2026, choosing the right practice management software for your Intensive Outp
 
 To effectively manage your IOP/PHP practice in 2026, it's essential to identify the specific operational challenges you face, such as group-based scheduling and attendance tracking. Assess your financial workflows to ensure you have software capable of handling complex billing and insurance requirements. Furthermore, evaluate clinical requirements to maintain high clinical quality and support outcomes measurement across your programs. By understanding these unique needs, you can select a practice management solution that enhances efficiency and compliance.
 
-Image: Diagram illustrating the unique needs of IOP/PHP practices
-
 [Explore Valant's whitepaper on operational challenges in behavioral health](https://www.valant.io/whitepaper)
 
 ### 2. Prioritize Integration Capabilities
 
 To enhance the efficiency of your practice in 2026, prioritize software that offers seamless EHR integration. This ensures your workflows are streamlined, reducing administrative burdens. Valant's solutions enable robust data interoperability, allowing for comprehensive management across different systems, crucial for maintaining data consistency. Additionally, ensure the software complies with current regulatory standards, safeguarding sensitive patient information. For more on Valant’s integration capabilities, explore [Valant's integration capabilities page](https://www.valant.io/practice-management/).
 
-Image: Flowchart of integrated systems in a behavioral health practice
-
 ### 3. Focus on User-Friendly Features
 
 Selecting practice management software with user-friendly features is vital for efficient operations in your IOP/PHP practice. Prioritize an intuitive interface to reduce training time and boost staff productivity. Customizable dashboards allow you to tailor the software to your practice's unique needs, enhancing workflow efficiency. Additionally, ensure the software provides mobile access, offering you and your team the flexibility to manage operations from anywhere. This adaptability is crucial in today's fast-paced healthcare environment. [Discover how Valant's user-friendly features can benefit your practice.](https://www.valant.io/practice-management/)
 
-Image: Screenshot of a user-friendly software interface
-
 ### 4. Evaluate Vendor Support and Expertise
 
 When selecting practice management software for your IOP/PHP, prioritize vendors offering comprehensive training and ongoing support. This ensures your team can effectively leverage the software’s capabilities. Choose a vendor with a solid track record in behavioral health, like Valant, to ensure they understand your practice's unique needs. Also, look for vendors that actively gather user feedback and continuously refine their products to better serve your practice.
-
-🖼️ Image: Infographic of vendor support services
 
 🔗 [Valant's customer support services page](https://www.valant.io/practice-management/)
 
