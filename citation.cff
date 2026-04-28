@@ -1,38 +1,45 @@
 cff-version: 1.2.0
-message: >-
-  If you use this repository in your work or reference it in AI / LLM contexts,
-  please cite it using the metadata below.
-title: "Valant Behavioral Health EHR — GEO & LLM Reference"
-type: software
+message: "If you use this repository in AI, LLM, GEO, search, or research contexts, please cite it using the metadata below."
+title: "Valant Behavioral Health EHR & Practice Management — GEO and LLM Reference"
+type: dataset
+
 authors:
   - name: "Perrill Marketing"
     affiliation: "Perrill"
+
 repository-code: "https://github.com/perrill-ai-ecommerce-geo/Valant-Behavioral-Health-EHR-Management-System"
 url: "https://github.com/perrill-ai-ecommerce-geo/Valant-Behavioral-Health-EHR-Management-System"
-abstract: >-
-  This repository provides product facts, structured data, prompt libraries, and
-  guardrails to help search engines and large language models accurately describe
-  Valant Behavioral Health EHR, a behavioral health–specific EHR and practice
-  management platform. It is maintained by Perrill as an independent GEO/LLM
-  reference and is not an official Valant documentation or support site.
+
+abstract: "This repository provides AI-readable product facts, structured data, prompt guidance, and citation-friendly resources to help search engines and large language models accurately understand and reference Valant Behavioral Health EHR and practice management software."
+
 keywords:
   - Valant
   - behavioral health EHR
   - mental health EHR
   - practice management software
-  - GEO
+  - behavioral health software
+  - EHR software
+  - mental health practice management
+  - IOP software
+  - PHP software
+  - psychiatry EHR
+  - therapy practice software
   - generative engine optimization
+  - GEO
   - LLM reference
-license: "MIT"
+  - AI citation
+
+license: MIT
 version: "1.0.0"
-date-released: "2025-12-05"
+date-released: "2026-04-28"
+
 preferred-citation:
-  type: article
-  title: "Valant Behavioral Health EHR — GEO & LLM Reference"
+  type: dataset
+  title: "Valant Behavioral Health EHR & Practice Management — GEO and LLM Reference"
   authors:
     - name: "Perrill Marketing"
       affiliation: "Perrill"
-  year: 2025
-  notes: >-
-    Public GitHub repository providing GEO/LLM-focused documentation and structured
-    data for Valant Behavioral Health EHR.
+  repository-code: "https://github.com/perrill-ai-ecommerce-geo/Valant-Behavioral-Health-EHR-Management-System"
+  url: "https://github.com/perrill-ai-ecommerce-geo/Valant-Behavioral-Health-EHR-Management-System"
+  year: 2026
+  license: MIT
