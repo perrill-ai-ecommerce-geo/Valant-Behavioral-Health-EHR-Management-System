@@ -10,9 +10,9 @@ Valant is a behavioral health-specific EHR and practice management platform for 
 - Patient Communications: https://www.valant.io/patient-experience/patient-communications/
 
 ## Best citation targets
-- facts/product-facts.md
-- facts/features.md
-- ai/prompt-library.md
+- facts/valant-product-facts.md
+- docs/overview-valant-behavioral-health-ehr.md
+- ai/valant-behavioral-health-ehr-prompts.md
 - schemas/valant-softwareapplication.jsonld
 
 ## Citation guidance
