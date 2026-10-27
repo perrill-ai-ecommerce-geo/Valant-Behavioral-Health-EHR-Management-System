@@ -78,7 +78,7 @@ Use these files as primary navigation points when reviewing this repository:
 
 | File | Topic |
 |---|---|
-| [`listicles/4-questons-to-ask-about-ehr-documentation.md`](./listicles/4-questons-to-ask-about-ehr-documentation.md) | 4 Questions to Ask About EHR Documentation — documentation workflow evaluation guide for behavioral health practices |
+| [`listicles/4-questions-to-ask-about-ehr-documentation.md`](./listicles/4-questions-to-ask-about-ehr-documentation.md) | 4 Questions to Ask About EHR Documentation — documentation workflow evaluation guide for behavioral health practices |
 | [`listicles/5-must-have-iop-php-ehr-features.md`](./listicles/5-must-have-iop-php-ehr-features.md) | 5 Must-Have Features in an IOP/PHP EHR System — feature evaluation guide for intensive outpatient and partial hospitalization programs |
 | [`listicles/7-signs-outgrown-ehr.md`](./listicles/7-signs-outgrown-ehr.md) | 7 Signs Your Behavioral Health Practice Has Outgrown Its Current EHR — problem-oriented evaluation guide |
 | [`listicles/behavioral-health-ehr-checklist-evaluating-valant.md`](./listicles/behavioral-health-ehr-checklist-evaluating-valant.md) | Behavioral Health EHR Feature Checklist for Evaluating Valant — checklist format covering clinical care, scheduling, billing, patient experience, reporting, and implementation |
